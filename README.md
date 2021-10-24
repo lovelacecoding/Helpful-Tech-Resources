@@ -72,11 +72,73 @@ It's important to actually use what you learnt. Here are some long GitHub reposi
 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | Focused on the aspects of being a developer that you may have missed       |
 
 ## Blog Platforms
+People learn from people. Write your own blogposts to teach and inspire other or find likeminded people that write posts about topics you're interested in.
+| Name                               | Notes                               |
+|------------------------------------|-------------------------------------|
+| [Hashnode](https://hashnode.com/)  | Focused on developers               |
+| [Medium](https://medium.com/)      |                                     |
+| [DEV](https://dev.to/)             | Has a podcast and video section too |
+| [Tumblr](https://www.tumblr.com/)  |                                     |
+| [Blogger](https://www.blogger.com) |                                     |
 ## Video Course Platforms
+Do you learn best by watching videos? Find some really great courses, paid or free, on these platforms (or create your own).
+| Name                                                       | Notes    |
+|------------------------------------------------------------|----------|
+| [Pluralsight](https://www.pluralsight.com/)                | Paid     |
+| [Coursera](https://www.coursera.org/)                      | Freemium |
+| [Udemy](https://www.udemy.com/)                            | Freemium |
+| [YouTube](https://www.youtube.com/)                        |          |
+| [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) |          |
+| [Skillshare](https://www.skillshare.com/)                  | Paid     |
+| [Fireship.io](https://fireship.io/)                        | Freemium |
+
 ## Helpful GitHub Repositories
+| Name                                                                                | Notes                                                                            |
+|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| [Awesome](https://github.com/sindresorhus/awesome)                                  | Awesome lists about all kind of interesting tech topics                          |
+| [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)                     | In depth bookseries about JavaScript - By [Kyle Simpson](https://me.getify.com/) |
+| [Open Source Society University](https://github.com/ossu/computer-science)          | Path to self-taught education in Computer Science                                |
+| [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | Freely available programming books in alot of languages                          |
+| [Free Certifications](https://github.com/cloudcommunity/free-certifications)        | Curated list of free courses & certificates                                      |
+| [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code)              | Short coding snippets for your development needs                                 |
+
 ## UI / UX
+| Name                                                                                                              | Notes                                                                                    |
+|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| [Hack Design](https://hackdesign.org/)                                                                            | Recieve a design lesson in your inbox every week by a design pro                         |
+| [Figma - Learn Design](https://www.figma.com/resources/learn-design/)                                             | Kick start your design education with lessons by Figma                                   |
+| [Learn UX](https://learnux.io/)                                                                                   | UI/UX video courses                                                                      |
+| [Coursera - UI/UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design)                   | Allround video course about UI/UX design                                                 |
+| [Awesome Design](https://github.com/gztchan/awesome-design)                                                       | list with helpful design resources                                                       |
+| [unDraw](https://undraw.co/)                                                                                      | Open Source and free illustrations for your projects                                     |
+| [Free Design Resources](https://twitter.com/hey_Ololade/status/1440220472554098695?t=kMHFFC6z0_WklLDoO-VdlA&s=19) | Huge list of free design resources - By [Bello Ololade](https://twitter.com/hey_Ololade) |
+
 ## System Administration & Networks
+| Name                                                                                              | Notes                      |
+|---------------------------------------------------------------------------------------------------|----------------------------|
+| [Powershell Course](https://docs.microsoft.com/en-us/learn/modules/introduction-to-powershell/)   |                            |
+| [Windows Server Courses](https://bit.ly/3EqU6jh)                                                  |                            |
+| [Linux Unhatched](https://www.netacad.com/courses/os-it/ndg-linux-unhatched)                      |                            |
+| [Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials)                    |                            |
+| [Introduction to Networks](https://www.netacad.com/courses/networking/ccna-introduction-networks) | Paid                       |
+| [CMD Challenge](https://cmdchallenge.com/)                                                        | Challenge your bash skills |
+
 ## DevOps
+| Name                                                                                                              | Notes                                          |
+|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| [Docker Curriculum](https://docker-curriculum.com/)                                                               |                                                |
+| [Docker and VS Code Tutorial](https://docs.microsoft.com/en-us/visualstudio/docker/tutorials/docker-tutorial)     |                                                |
+| [Awesome Docker](https://github.com/veggiemonk/awesome-docker)                                                    | Curated resource list all about Docker         |
+| [Docker Cheatsheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)                 | PDF file                                       |
+| [Learn Kuburnetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/)                                       |                                                |
+| [Digital Ocean-Intro to Kuburnetes](https://do.co/2XDoJ50)                                                        |                                                |
+| [CI/CD With Azure DevOps](https://docs.microsoft.com/en-us/learn/modules/implement-ci-cd-azure-devops/)           |                                                |
+| [CI/CD With GitHub Actions](https://docs.microsoft.com/en-us/azure/app-service/deploy-github-actions)             |                                                |
+| [Get Started With Azure](https://medium.com/bb-tutorials-and-thoughts/how-to-get-started-with-azure-87ffd3bcfb7a) |                                                |
+| [Awesome Azure Learning](https://github.com/ddneves/awesome-azure-learning)                                       | Curated resource list all about learning Azure |
+| [Get Started With AWS](https://aws.amazon.com/getting-started/)                                                   |                                                |
+| [Awesome AWS](https://github.com/donnemartin/awesome-aws)                                                         | Curated resource list all about AWS            |
+
 ## NoCode & Serverless
 ## APIs
 ## Studying
