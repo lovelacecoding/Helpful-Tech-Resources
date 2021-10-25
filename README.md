@@ -6,7 +6,7 @@ Over the last few months I spent a lot of time on social media, collecting all k
 Feel free to contact me on:<br> [![Twitter](https://img.shields.io/badge/lovelacecoding-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/lovelacecoding) [![Instagram](https://img.shields.io/badge/lovelacecoding-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lovelacecoding)
 
 ## Comments and Index 
-Not all of these resources are free. **Paid** = you have to pay for the product or for a subscription. **Freemium** = the resource is partly free, partly paid
+Not all of these resources are free. **Paid**: you have to pay for the product or for a subscription. **Freemium**: the resource is partly free, partly paid
 
 * Interactive Coding Courses 
 * Coding Challenges
@@ -80,6 +80,7 @@ People learn from people. Write your own blogposts to teach and inspire other or
 | [DEV](https://dev.to/)             | Has a podcast and video section too |
 | [Tumblr](https://www.tumblr.com/)  |                                     |
 | [Blogger](https://www.blogger.com) |                                     |
+
 ## Video Course Platforms
 Do you learn best by watching videos? Find some really great courses, paid or free, on these platforms (or create your own).
 | Name                                                       | Notes    |
@@ -109,7 +110,7 @@ Do you learn best by watching videos? Find some really great courses, paid or fr
 | [Figma - Learn Design](https://www.figma.com/resources/learn-design/)                                             | Kick start your design education with lessons by Figma                                   |
 | [Learn UX](https://learnux.io/)                                                                                   | UI/UX video courses                                                                      |
 | [Coursera - UI/UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design)                   | Allround video course about UI/UX design                                                 |
-| [Awesome Design](https://github.com/gztchan/awesome-design)                                                       | list with helpful design resources                                                       |
+| [Awesome Design](https://github.com/gztchan/awesome-design)                                                       | List with helpful design resources                                                       |
 | [unDraw](https://undraw.co/)                                                                                      | Open Source and free illustrations for your projects                                     |
 | [Free Design Resources](https://twitter.com/hey_Ololade/status/1440220472554098695?t=kMHFFC6z0_WklLDoO-VdlA&s=19) | Huge list of free design resources - By [Bello Ololade](https://twitter.com/hey_Ololade) |
 
@@ -140,6 +141,15 @@ Do you learn best by watching videos? Find some really great courses, paid or fr
 | [Awesome AWS](https://github.com/donnemartin/awesome-aws)                                                         | Curated resource list all about AWS            |
 
 ## NoCode & Serverless
+| Name                                                                                   | Notes                                                    |
+|----------------------------------------------------------------------------------------|----------------------------------------------------------|
+| [Wordpress No-Code Tutorials](https://wpnocode.com/)                                   |                                                          |
+| [Webflow](https://webflow.com/)                                                        |                                                          |
+| [Awesome NoCode/LowCode](https://github.com/kairichard/awesome-nocode-lowcode)         | Curated resource list all about NoCode & LowCode         |
+| [Azure Functions University](https://github.com/marcduiker/azure-functions-university) | By [Marc Duiker](https://twitter.com/marcduiker)         |
+| [The Serverless Framework](https://github.com/serverless/serverless)                   |                                                          |
+| [Awesome Serverless](https://github.com/anaibol/awesome-serverless)                    | A curated resources list all about serverless technology |
+## Security & Hacking
 ## APIs
 ## Studying
 ## Career 
