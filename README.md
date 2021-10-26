@@ -174,7 +174,7 @@ Looking for an API to use in your next project? Try one of these resources
 ## Studying
 | Name                                                                                                                        | Notes                                                              |
 |-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
-| [25 Studying Tips](https://www.mydegreeguide.com/how-to-study-tips/)                                                        | Scientifically proven  tips to helps you with effectively studying |
+| [25 Studying Tips](https://www.mydegreeguide.com/how-to-study-tips/)                                                        | Scientifically proven tips to help you with effectively studying |
 | [Crash Course - Study Skills](https://thecrashcourse.com/courses/studyskills)                                               | Video Course all about studying                                    |
 | [What is The Pomodoro Technique](https://todoist.com/nl/productivity-methods/pomodoro-technique)                            | How to study in small parts                                        |
 | [Pomodoro Timer](https://pomofocus.io/)                                                                                     |                                                                    |
