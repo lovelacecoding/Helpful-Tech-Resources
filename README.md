@@ -3,27 +3,29 @@ Disclaimer: Please don't get stuck in 'tutorial hell'. Try to execute what you l
 
 Over the last few months I spent a lot of time on social media, collecting all kinds of interesting, educational, and helpful resources. It was nearing the 100 mark so I thought I would share them with the world, so here you go :) <br>
 
-Feel free to contact me on:<br> [![Twitter](https://img.shields.io/badge/lovelacecoding-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/lovelacecoding) [![Instagram](https://img.shields.io/badge/lovelacecoding-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lovelacecoding)
+Feel free to contact me on:<br> [![Twitter](https://img.shields.io/badge/lovelacecoding-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/lovelacecoding) [![Instagram](https://img.shields.io/badge/lovelacecoding-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lovelacecoding)<br>
+
+Also don't forget to give this repository a star ⭐ if you like it to keep up with changes, and share these resources. Thank you!
 
 ## Comments and Index 
 Not all of these resources are free. **Paid**: you have to pay for the product or for a subscription. **Freemium**: the resource is partly free, partly paid
 
-* Interactive Coding Courses 
-* Coding Challenges
-* Coding Project Inspiration
-* Coding - What To Learn Next
-* Blog Platforms
-* Video Course Platforms
-* Helpful GitHub Repositories
-* UI / UX 
-* Systm Administration & Networking
-* DevOps
-* NoCode & Serverless
-* Security & Hacking
-* APIs
-* Studying
-* Career
-* Cool Discord Communities
+* [Interactive Coding Courses](#interactive-coding-courses) 
+* [Coding Challenges](#coding-challenges)
+* [Coding Project Inspiration](#coding-project-inspiration)
+* [Coding - What To Learn Next](#coding---what-to-learn-next)
+* [Blog Platforms](#blog-platforms)
+* [Video Course Platforms](#video-course-platforms)
+* [Helpful GitHub Repositories](#helpful-github-repositories)
+* [UI / UX](#ui--ux)
+* [Systm Administration & Networks](#system-administration--networks)
+* [DevOps](#devops)
+* [NoCode & Serverless](#nocode--serverless)
+* [Security & Hacking](#security--hacking)
+* [APIs](#apis)
+* [Studying](#studying)
+* [Career](#career)
+* [Cool Discord Communities](#cool-discord-communities)
 
 ## Interactive Coding Courses
 | Name               | Languages                       | Notes    |
@@ -148,9 +150,59 @@ Do you learn best by watching videos? Find some really great courses, paid or fr
 | [Awesome NoCode/LowCode](https://github.com/kairichard/awesome-nocode-lowcode)         | Curated resource list all about NoCode & LowCode         |
 | [Azure Functions University](https://github.com/marcduiker/azure-functions-university) | By [Marc Duiker](https://twitter.com/marcduiker)         |
 | [The Serverless Framework](https://github.com/serverless/serverless)                   |                                                          |
-| [Awesome Serverless](https://github.com/anaibol/awesome-serverless)                    | A curated resources list all about serverless technology |
+| [Awesome Serverless](https://github.com/anaibol/awesome-serverless)                    | Curated resource list all about serverless technology    |
+
 ## Security & Hacking
+| Name                                                                                                      | Notes                                       |
+|-----------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| [Hacker101](https://www.hacker101.com/)                                                                   | CTF challenges and video courses            |
+| [CoHackers](https://cohackers.co//)                                                                       | Find a mentor in hacking                    |
+| [TryHackMe](https://tryhackme.com/)                                                                       | All kinds of courses on different levels    |
+| [Hack The Box](https://www.hackthebox.eu/)                                                                | Virtual Machine challenges                  |
+| [Introduction to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) | Course (with certification) by Cisco        |
+| [Awesome Security](https://github.com/sbilly/awesome-security)                                            | A curated resources list all about security |
+
 ## APIs
+Looking for an API to use in your next project? Try one of these resources
+| Name                                                      | Notes |
+|-----------------------------------------------------------|-------|
+| [RapidAPI Hub](https://rapidapi.com/hub)                  |       |
+| [Public APIs](https://github.com/public-apis/public-apis) |       |
+| [API list](https://apilist.fun/)                          |       |
+| [Awesome APIs](https://github.com/TonnyL/Awesome_APIs)    |       |
+
 ## Studying
+| Name                                                                                                                        | Notes                                                              |
+|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| [25 Studying Tips](https://www.mydegreeguide.com/how-to-study-tips/)                                                        | Scientifically proven  tips to helps you with effectively studying |
+| [Crash Course - Study Skills](https://thecrashcourse.com/courses/studyskills)                                               | Video Course all about studying                                    |
+| [What is The Pomodoro Technique](https://todoist.com/nl/productivity-methods/pomodoro-technique)                            | How to study in small parts                                        |
+| [Pomodoro Timer](https://pomofocus.io/)                                                                                     |                                                                    |
+| [The Best Note-Taking Methods](https://medium.goodnotes.com/the-best-note-taking-methods-for-college-students-451f412e264e) |                                                                    |
+| [Cornell Note Taking](https://medium.goodnotes.com/study-with-ease-the-best-way-to-take-notes-2749a3e8297b)                 |                                                                    |
+
 ## Career 
+| Name                                                                                                         | Notes                                                                                                                          |
+|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| [Break Into Tech (without coding)](https://www.breakinto.tech/)                                              | Focused on all kinds of information on how to get a tech job without being a developer                                         |
+| [Developer Portfolio Inspiration](https://github.com/emmabostian/developer-portfolios)                       | Over 100 examples of developer portfolios - By [Emma Bostian](https://twitter.com/emmabostian)                                 |
+| [Make your GitHub Page stand out](https://www.eddiejaoude.io/course-github-profile-landing)                  | Video course about how to make your GitHub page look amazing - By [Eddie Jaoude](https://www.eddiejaoude.io)                   |
+| [Get a Job Using LinkedIn](https://www.youtube.com/playlist?list=PL54X5yR8qizsMpvTCqUIEFMeEp-chvcxk)         | YouTube Playlist full of tips on how to make your LinkedIn page better - By [Danny Thompson](https://twitter.com/DThompsonDev) |
+| [Open Source Internship Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs) | A curated list of all open source internship programs                                                                          |
+| [Summer 2022 Internships](https://github.com/pittcsc/Summer2022-Internships)                                 | A list of summer 2022 internship programs in the USA                                                                           |
+| [The Forage](https://www.theforage.com/)                                                                     | Take part of a virtual work experience program and get hired                                                                   |
+| [Tech Interview Handbook](https://techinterviewhandbook.org/)                                                |                                                                                                                                |
+| [Coding Interview University](https://github.com/jwasham/coding-interview-university)                        | By [John Washam](https://startupnextdoor.com/)                                                                                 |
+| [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)                      | Links to frequently asked questions on tech interviews                                                                         |
+| [Toastmasters](https://www.toastmasters.org/)                                                                | Join a toastmasters group anywhere in the world to get better at public speaking 
+|
+
 ## Cool Discord Communities
+| Name                                                         | Notes                                                     |
+|--------------------------------------------------------------|-----------------------------------------------------------|
+| [The Programmer Hangout](https://theprogrammershangout.com/) | Geared towards all kind of developers                     |
+| [Devcord](https://devcord.com/)                              | Geared towards web developers                             |
+| [The Coding Den](https://discord.com/invite/code)            | Geared towards developers that have questions / need help |
+| [Commit Your Code!](https://bit.ly/30YfIop)                  | Geared towards developers (+ career advice)               |
+| [EddieHub](https://discord.com/invite/jZQs6Wus)              | Geared toward developers interested in open source        |
+| [4C](https://github.com/pittcsc/Summer2022-Internships)      | geared towards people that create (tech) content online   |
