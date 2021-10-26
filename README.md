@@ -195,7 +195,7 @@ Looking for an API to use in your next project? Try one of these resources
 | [Coding Interview University](https://github.com/jwasham/coding-interview-university)                        | By [John Washam](https://startupnextdoor.com/)                                                                                 |
 | [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)                      | Links to frequently asked questions on tech interviews                                                                         |
 | [Toastmasters](https://www.toastmasters.org/)                                                                | Join a toastmasters group anywhere in the world to get better at public speaking 
-|
+
 
 ## Cool Discord Communities
 | Name                                                         | Notes                                                     |
