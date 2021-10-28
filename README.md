@@ -1,11 +1,11 @@
 # Helpful Tech Resources
-Disclaimer: Please don't get stuck in 'tutorial hell'. Try to execute what you learned in a project or task of your own and then move on to the next interesting thing.<br>
+_Disclaimer: Please don't get stuck in 'tutorial hell'. Try to execute what you learned in a project or task of your own and then move on to the next interesting thing.<br>_
 
-Over the last few months I spent a lot of time on social media, collecting all kinds of interesting, educational, and helpful resources. It was nearing the 100 mark so I thought I would share them with the world, so here you go :) <br>
+Over the last few months I spent a lot of time on social media, collecting all kinds of interesting, educational, and helpful resources. It was nearing the 100 links so I thought I would share them with the world, so here you go :) <br>
 
 Feel free to contact me on:<br> [![Twitter](https://img.shields.io/badge/lovelacecoding-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/lovelacecoding) [![Instagram](https://img.shields.io/badge/lovelacecoding-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lovelacecoding)<br>
 
-Also don't forget to give this repository a star ⭐ if you like it to keep up with changes, and share these resources. Thank you!
+Also don't forget to give this repository a star ⭐ if you like it to keep up with changes. Use these resources yourself or share them with people that it could be helpful to. Thank you!
 
 ## Comments and Index 
 Not all of these resources are free. **Paid**: you have to pay for the product or for a subscription. **Freemium**: the resource is partly free, partly paid
@@ -204,5 +204,5 @@ Looking for an API to use in your next project? Try one of these resources
 | [Devcord](https://devcord.com/)                              | Geared towards web developers                             |
 | [The Coding Den](https://discord.com/invite/code)            | Geared towards developers that have questions / need help |
 | [Commit Your Code!](https://bit.ly/30YfIop)                  | Geared towards developers (+ career advice)               |
-| [EddieHub](https://discord.com/invite/jZQs6Wus)              | Geared toward developers interested in open source        |
+| [EddieHub](https://discord.com/invite/jZQs6Wus)              | Geared towards developers interested in open source        |
 | [4C](https://github.com/pittcsc/Summer2022-Internships)      | geared towards people that create (tech) content online   |
