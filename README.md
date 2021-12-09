@@ -18,7 +18,7 @@ Not all of these resources are free. **Paid**: you have to pay for the product o
 * [Video Course Platforms](#video-course-platforms)
 * [Helpful GitHub Repositories](#helpful-github-repositories)
 * [UI / UX](#ui--ux)
-* [Systm Administration & Networks](#system-administration--networks)
+* [System Administration & Networks](#system-administration--networks)
 * [DevOps](#devops)
 * [NoCode & Serverless](#nocode--serverless)
 * [Security & Hacking](#security--hacking)
@@ -32,6 +32,7 @@ Not all of these resources are free. **Paid**: you have to pay for the product o
 |--------------------|:---------------------------------:|----------|
 | [FreeCodeCamp](https://www.freecodecamp.org/)       | <div align="center">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</div>                                                                                                           |          |
 | [The Odin Project](https://www.theodinproject.com/) | <div align="center">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)</div>     | Focused on Web Development |
+| [Scrimba](https://scrimba.com/)       | <div align="center">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</div> | **Freemium** - Focused on Web Development |
 | [DataCamp](https://www.datacamp.com/)               |<div align="center">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)</div>                                                             | **Freemium** - Focused on Machine Learning and Data Science |
 | [Kaggle](https://www.kaggle.com/learn)              |<div align="center">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white)</div>                                                             | Focused on Machine Learning |
 | [CodeAcademy](https://www.codecademy.com/)          |<div align="center">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</div> | **Freemium** - Has more languages than listed |
@@ -204,5 +205,6 @@ Looking for an API to use in your next project? Try one of these resources
 | [Devcord](https://devcord.com/)                              | Geared towards web developers                             |
 | [The Coding Den](https://discord.com/invite/code)            | Geared towards developers that have questions / need help |
 | [Commit Your Code!](https://bit.ly/30YfIop)                  | Geared towards developers (+ career advice)               |
-| [EddieHub](https://discord.com/invite/jZQs6Wus)              | Geared towards developers interested in open source        |
-| [4C](https://github.com/pittcsc/Summer2022-Internships)      | geared towards people that create (tech) content online   |
+| [EddieHub](https://discord.com/invite/jZQs6Wus)              | Geared towards developers interested in open source       |
+| [4C](https://discord.gg/M5TKk7NH)                            | Geared towards people that create (tech) content online   |
+| [Buildspace](https://buildspace.so/)                         | Geared towards developers interested in Web3              |
