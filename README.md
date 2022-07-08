@@ -24,6 +24,7 @@ Not all of these resources are free. **Paid**: you have to pay for the product o
 * [Security & Hacking](#security--hacking)
 * [APIs](#apis)
 * [Studying](#studying)
+* [Technical Writing](#technical-writing)
 * [Career](#career)
 * [Cool Discord Communities](#cool-discord-communities)
 
@@ -181,6 +182,15 @@ Looking for an API to use in your next project? Try one of these resources
 | [Pomodoro Timer](https://pomofocus.io/)                                                                                     |                                                                    |
 | [The Best Note-Taking Methods](https://medium.goodnotes.com/the-best-note-taking-methods-for-college-students-451f412e264e) |                                                                    |
 | [Cornell Note Taking](https://medium.goodnotes.com/study-with-ease-the-best-way-to-take-notes-2749a3e8297b)                 |                                                                    |
+## Technical Writing
+If you need help with writing technical documentation or blogposts
+| Name                                                      | Notes |
+|-----------------------------------------------------------|-------|
+| [Technical Writing Tutorial by JPDocu](https://www.udemy.com/course/technical-writing-a-quick-start-to-software-documentation/)                  |       |
+| [Google Technical Writing Courses](https://developers.google.com/tech-writing)                  |       |
+| [Grammarly](https://www.grammarly.com) |       |
+| [QuillBot](https://quillbot.com/)                          |       |
+| [Hemingway Editor](https://hemingwayapp.com/)    |       |
 
 ## Career 
 | Name                                                                                                         | Notes                                                                                                                          |
