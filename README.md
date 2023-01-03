@@ -218,3 +218,4 @@ If you need help with writing technical documentation or blogposts
 | [EddieHub](https://discord.com/invite/jZQs6Wus)              | Geared towards developers interested in open source       |
 | [4C](https://discord.gg/M5TKk7NH)                            | Geared towards people that create (tech) content online   |
 | [Buildspace](https://buildspace.so/)                         | Geared towards developers interested in Web3              |
+| [CompSciLib](https://discord.com/invite/BSsFDtM6d8)          | Geared towards students who want CS/Math Homework Help    |
