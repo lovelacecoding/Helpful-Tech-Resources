@@ -71,6 +71,7 @@ It's important to actually use what you learnt. Here are some long GitHub reposi
 | Name                                                                        | Notes                                                                      |
 |-----------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | [Bento](https://bento.io/)                                                  | Has multiple language tracks that help you find the best quality resources |
+| [CS50](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) | Want to learn all about traditional Computer Science? Try CS50 |
 | [Developer Roadmap](https://roadmap.sh/)                                    | Community made flowcharts for developers                                   |
 | [Hackr.io](https://hackr.io/)                                               | Focused on finding the best courses and tutorials                          |
 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | Focused on the aspects of being a developer that you may have missed       |
